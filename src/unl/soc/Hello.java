@@ -1,3 +1,13 @@
+/**
+ * 
+ * Author: Oscar Hanson
+ * 
+ * Date: 9/3/2024
+ * 
+ * Description: A program used to demonstrate basic git functionalities and multiple author changes. 
+ * 
+ */
+
 package unl.soc;
 
 public class Hello {
