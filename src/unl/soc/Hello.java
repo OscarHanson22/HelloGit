@@ -1,6 +1,6 @@
 /**
  * 
- * Author: Oscar Hanson
+ * Author: Oscar Hanson, Ermias Wolde
  * 
  * Date: 9/3/2024
  * 
